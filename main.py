@@ -3,7 +3,7 @@ app = Flask(__name__)
 
 @app.route('/')
 def hello():
-	return "<center><h1>This is Home Page Site is under developement</h1></center>"
+	return render_template("main.html")
 
 #Checking Status.
 if __name__ =='__main__':
