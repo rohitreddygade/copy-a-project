@@ -1,8 +1,8 @@
 from flask import Flask
 app = Flask(__name__)
 
-app.route('/')
-def hoem():
+@app.route('/')
+def hello():
 	return "<center><h1>This is Home Page Site is under developement</h1></center>"
 
 #Checking Status.
