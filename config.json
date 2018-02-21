@@ -1,0 +1,13 @@
+{
+	"mongodb" : {
+
+					"host" : "mongodb",
+					"user" : "",
+					"pass" : "",
+					""     : 
+				},
+	"storage" : {
+				
+					"location" : "	"
+				}
+}

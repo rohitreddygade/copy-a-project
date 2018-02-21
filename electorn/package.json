@@ -1,0 +1,11 @@
+{
+"name" : "First Application With Electron",
+"versio":"0.0.1",
+"files": [
+  "*.js",
+  "*.html",
+  "build",
+  "node_modules"
+],
+"main" : "main.js"
+}
